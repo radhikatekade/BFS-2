@@ -1,5 +1,5 @@
 # Time complexity - O(n)
-# Space complexity - O(n)
+# Space complexity - O(h)
 
 # Approach II - Depth First Search - Do level order traversal, instead of maintaining list of elements at
 # every level, replace the result[lvl] element with the latest one.
